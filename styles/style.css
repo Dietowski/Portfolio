@@ -135,6 +135,10 @@
         .cabecalho__menu {
             justify-content: center;
         }
+        
+        .cabecalho__menu__link{
+            font-size: 20px;
+        }
 
         .apresentacao {
             flex-direction: column-reverse; /*inverte para ter a imagem acima do texto*/
@@ -147,6 +151,7 @@
 
         .image {
             align-self: center;
+            width: auto;
         }
 
     }
